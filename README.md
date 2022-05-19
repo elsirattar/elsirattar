@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Alattar aka @elsirattar 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Xamarin
+- 🌱 I’m currently learning flutter
 - 💞️ Sales and Marketing is my background
 - 📫 ahmedalattarnas@gmail.com
 
